@@ -47,6 +47,8 @@ public class ClaseBaseFinalMobil {
 	{
 		super();
 	}
+	
+//	esto es un comentario
 
 	public void setrutaOutput(String rutaOutput, AppiumDriver<MobileElement> driver2) {
 		this.rutaOutput = rutaOutput;
